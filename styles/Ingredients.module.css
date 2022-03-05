@@ -1,0 +1,23 @@
+.img{
+    border: 2px solid #f8b02d;
+    height: 68px;
+    width: 68px;
+    border-radius: 50%;
+}
+
+.text{
+    color: #f8b02d;
+}
+
+.list{
+    border-bottom: 2px solid #e9e8e7;
+}
+
+.list img{
+    width: 80px;
+    max-height: 70px;
+}
+
+.list > div{
+    flex: 1;
+}

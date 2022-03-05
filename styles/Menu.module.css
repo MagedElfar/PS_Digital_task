@@ -1,0 +1,15 @@
+.title{
+    color: #FFF;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+.link{
+    color: #a39382;
+    font-size: 14px;
+    transition: all 0.3s linear;
+}
+
+.link:hover{
+    color: #FFF;
+}

@@ -1,0 +1,25 @@
+.img{
+    max-width:70%;
+}
+
+.name{
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.name a{
+    background-color: #9a3324;
+    color: #FFF;
+    border-radius: 10px;
+    transition: all 0.3s linear;
+}
+
+.name a:hover{
+    background-color: #f8b02d;
+    color: #000;
+}
+
+.productSize {
+    font-size: 14px;
+    line-height: 14px;
+}

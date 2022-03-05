@@ -1,0 +1,26 @@
+.sidebar{
+    background: url('/images/stamp.png') rgba(44,40,38,.04);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    padding: 11px 0 0;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+}
+
+.sidebar ul {
+    list-style: none;
+}
+
+.link{
+    color: #9a3324;
+    border-bottom: 1px solid #ddd;
+    transition: all .3s linear;
+}
+
+.link:hover,
+.active {
+    color: #f8b02d;
+    border-color: #f8b02d;
+}
