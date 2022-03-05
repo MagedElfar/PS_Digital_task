@@ -4,9 +4,6 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
-}
-
-module.exports = {
   async redirects() {
     return [
       {
@@ -17,5 +14,7 @@ module.exports = {
     ]
   },
 }
+
+
 
 module.exports = nextConfig
